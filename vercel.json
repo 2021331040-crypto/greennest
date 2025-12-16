@@ -1,0 +1,5 @@
+{
+  "buildCommand": "npm --prefix greennest ci && npm --prefix greennest run build",
+  "outputDirectory": "greennest/dist",
+  "framework": "vite"
+}
